@@ -1,5 +1,5 @@
 ## About application
-<img src="public/images/smartphones.gif" alt="this slowpoke moves"  width=600/>
+<img src="public/images/smartphones.gif" alt="this slowpoke moves"  width=1000/>
 
 It is eCommerce application for selling mobile and smartphones. Voyager admin panerl is integrated to the application where admin of the application can insert new products and have access and regulate the users who payed for products. Application have credit/debit card payemt service.
 
