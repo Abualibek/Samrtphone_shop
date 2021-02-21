@@ -12,8 +12,8 @@ Check migrations file in the application and create tables in mysql or use <stro
 The rest is not difficult to set up if you know the basics of Laravel :)
 
 ## To run server run commands:
-composer install
-composer dump-autoload
-php artisan migrate
-php artisan serve
+composer install</br>
+composer dump-autoload</br>
+php artisan migrate</br>
+php artisan serve</br>
 
